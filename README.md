@@ -28,4 +28,10 @@ I'm a beginner front-end developer from Nizhniy Novgorod.
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git"  alt="Git" width="40" height="40"/>&nbsp;
 </p>
 
+---
+
+### ☎️ Contacts :
+
+[![telegram (6)](https://user-images.githubusercontent.com/70646350/119327162-5952b280-bc8b-11eb-97b2-4484aab48d02.png)](https://t.me/leth44l)&nbsp;&nbsp;
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LethL&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
