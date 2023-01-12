@@ -1,4 +1,13 @@
-### Hi there 👋
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
+</h1>
+
+### :man_technologist: About Me :
+I'm a beginner front-end developer from Nizhniy Novgorod.
+- :telescope: I am working on developing my skills in web development
+- 🌱 I am currently learning TypeScript
+- 👨‍💼 I want to be part of a friendly team of professionals
 
 <!--
 **LethL/LethL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
